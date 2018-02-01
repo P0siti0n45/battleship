@@ -4,6 +4,8 @@ Python TeamWork week 1 @ Codecool Budapest
 
 made by: Tamás Petki
          Richárd Hriech
+
+uploaded to Github
 """
 import os
 import time
